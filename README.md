@@ -79,10 +79,3 @@ Luồng hoạt động điển hình:
 - Hoàn thiện phần hiển thị 7 đoạn dùng 74HC595 (nếu cần).
 - Tối ưu EMC/EMI và bảo vệ nguồn cho môi trường công nghiệp.
 
----
-
-Nếu bạn muốn, mình có thể viết thêm:
-
-- README bản tiếng Anh,
-- sơ đồ chân kết nối giữa các khối,
-- checklist review thiết kế PCB trước khi xuất Gerber.
