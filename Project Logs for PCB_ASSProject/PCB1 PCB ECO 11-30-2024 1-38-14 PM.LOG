@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=C3 Old Footprint=CYL/D.400/LS.200 New Footprint=C SMD ALU (D)
+Change Component Footprint: Designator=C6 Old Footprint=CYL/D.400/LS.200 New Footprint=C SMD ALU (D)
+Change Component Footprint: Designator=P2 Old Footprint=HDR/Terminal/4/RA New Footprint=HDR/Header/4
+Added Member To Class: ClassName=3V3REGULATOR Member=Component L1 15uH
+Added Member To Class: ClassName=ESP_32 Member=Component U4 ESP32-WROOM-32
+Added Room: Name=3V3REGULATOR
+Added Room: Name=CURRENT_SENSOR
+Added Room: Name=ESP_32
+Added Room: Name=LED
+Added Room: Name=RS485_PART
+Added Room: Name=SW

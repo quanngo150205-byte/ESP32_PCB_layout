@@ -1,0 +1,7 @@
+Added Member To Class: ClassName=ESP_32 Member=Component C11 22uF
+Added Room: Name=3V3REGULATOR
+Added Room: Name=CURRENT_SENSOR
+Added Room: Name=ESP_32
+Added Room: Name=LED
+Added Room: Name=RS485_PART
+Added Room: Name=SW

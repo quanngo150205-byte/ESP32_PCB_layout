@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=L1-1
+Removed Pin From Net: NetName=3V3 Pin=L1-2
+Added Component: Designator=L1(Inductor SMD 6.5x6.5x3.0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "BRAND"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PACKAGE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PART NO"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "STOCK CODE"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SUPPLIER"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TYPE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Added Pin To Net: NetName=3V3 Pin=L1-2
+Added Pin To Net: NetName=SW1 Pin=R22-1
+Added Room: Name=3V3REGULATOR
+Added Room: Name=CURRENT_SENSOR
+Added Room: Name=ESP_32
+Added Room: Name=LED
+Added Room: Name=RS485_PART
+Added Room: Name=SW
